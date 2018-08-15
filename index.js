@@ -75,5 +75,5 @@ try {
 	}
 
 })
-bot.login(config.token)
+bot.login(config.token);
 // Se definiu uma const, muda pra bot.login(nomedaconst)
